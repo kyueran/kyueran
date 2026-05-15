@@ -9,12 +9,7 @@ Master of Business Analytics candidate at MIT Sloan and the MIT Operations Resea
 ## 🔬 Research Interests
 
 - Multimodal Learning
-- Scientific AI & Symbolic Regression
-- LLM Systems & Routing
-- Optimization & Bayesian Methods
-- Explainable AI
 - Agentic AI Systems
-- Decision Intelligence
 
 ---
 
