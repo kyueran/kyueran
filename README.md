@@ -20,7 +20,7 @@ Co-first-author paper accepted to the NeurIPS 2025 AI for Science Workshop.
 
 I pretrain large multimodal models by aligning graph representations of numerical data with symbolic representations of equations, then combine Bayesian optimization with evolutionary algorithms to efficiently discover high-R² equations.
 
-I also applied this framework to video motion prediction, generating interpretable equations that predict object trajectories multiple frames into the future for safety-critical autonomous systems.
+I also applied this framework to video motion prediction, generating interpretable equations that predict object trajectories multiple frames into the future for potential application in autonomous systems.
 
 📄 https://neurips.cc/virtual/2025/loc/san-diego/126038
 
